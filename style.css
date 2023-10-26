@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(0, 0, 0);
+font-size: 40px;
+font-family: 'Montserrat', sans-serif;
+margin-bottom: 50px;}
+
+h2 {color: rgb(0, 0, 0);
+font-size: 20px;
+margin-top: 40px;
+background-color: rgba(255, 213, 245, 0.5);
+}
+
+img {width: 500px;
+border-radius: 30px;
+}
+
+a {background-color: rgb(172, 172, 255);
+text-decoration: none;
+padding: 20px;
+margin: 70px;
+transition: all 0.9s ease;
+}
+
+a {margin-left: 80px;
+border-radius: 8px;}
+
+a:hover {
+    background-color: rgb(240, 172, 212);
+    color: rgb(107, 107, 255);
+}
+
+body {background-color: rgb(255, 246, 246);
+}
+
+:link {margin: 600px;
+}
+
+div {
+    margin: 40px auto;
+    box-shadow: 2px 3px 2px 3px rgb(0, 0, 0, 0.5);
+    border-radius: 8px;
+    padding: 0px 40px;
+}
